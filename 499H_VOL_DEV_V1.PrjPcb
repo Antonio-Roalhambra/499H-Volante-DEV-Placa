@@ -1,6 +1,6 @@
 ﻿[Design]
 Version=1.0
-HierarchyMode=4
+HierarchyMode=2
 ChannelRoomNamingStyle=0
 ReleasesFolder=
 ChannelDesignatorFormatString=$Component_$RoomName
@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KZXSXRQM
 
 [Document5]
-DocumentPath=Controlador_USB_Hub.SchDoc
+DocumentPath=21_Controlador_USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -407,7 +407,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document22]
-DocumentPath=Controlador_USB_Hub.Harness
+DocumentPath=21_Controlador_USB.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

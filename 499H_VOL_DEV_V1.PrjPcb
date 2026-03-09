@@ -169,7 +169,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VZELZPEW
 
 [Document8]
-DocumentPath=HUB_USB.SchDoc
+DocumentPath=22_Hub.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -356,7 +356,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document19]
-DocumentPath=HUB_USB.Harness
+DocumentPath=22_Hub.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

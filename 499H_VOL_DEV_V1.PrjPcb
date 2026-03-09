@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RYBOJLOG
 
 [Document2]
-DocumentPath=Conector_LRS_POT_Externa.SchDoc
+DocumentPath=10_Conector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -660,6 +660,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NRUTZJXM
+
+[Document37]
+DocumentPath=11_Supervisión.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PISCYXPV
 
 [Configuration1]
 Name=Sources

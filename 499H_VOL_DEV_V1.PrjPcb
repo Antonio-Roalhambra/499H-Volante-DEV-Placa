@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TTVGQFIN
 
 [Document6]
-DocumentPath=Controles.SchDoc
+DocumentPath=51_ADC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -288,7 +288,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document15]
-DocumentPath=Controles.Harness
+DocumentPath=51_ADC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

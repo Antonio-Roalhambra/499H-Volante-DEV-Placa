@@ -152,7 +152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TTVGQFIN
 
 [Document7]
-DocumentPath=Controlador_USB_Maestro.SchDoc
+DocumentPath=31_Controlador_USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -220,7 +220,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JMBTTAZP
 
 [Document11]
-DocumentPath=Multiplexor_USBD_Maestro.SchDoc
+DocumentPath=32_Multiplexor_USBD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -271,7 +271,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HUWVDUZD
 
 [Document14]
-DocumentPath=Selector_POT_Maestro.SchDoc
+DocumentPath=33_Selector_Alimentacion.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -322,7 +322,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CXCSIZQK
 
 [Document17]
-DocumentPath=Multiplexor_USBD_Maestro.Harness
+DocumentPath=32_Multiplexor_USBD.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -407,7 +407,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document22]
-DocumentPath=Controlador_USB_Maestro.Harness
+DocumentPath=31_Controlador_USB.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

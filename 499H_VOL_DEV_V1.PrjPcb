@@ -559,6 +559,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AUEWKDQL
 
+[Document31]
+DocumentPath=50_ExpansorIO.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1553,7 +1570,7 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=3V3_CTLR|NetColor=$004FA86A
+Net1=NetName=3V3_CTLR|NetColor=$00FF0099
 Net2=NetName=5V_ATMega|NetColor=clFuchsia
 Net3=NetName=5V_DBG|NetColor=clFuchsia
 Net4=NetName=5V_HUB_FB|NetColor=clRed

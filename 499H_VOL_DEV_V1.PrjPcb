@@ -67,23 +67,6 @@ GenerateClassCluster=0
 DocumentUniqueId=GWCOFARM
 
 [Document2]
-DocumentPath=10_Conector.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DIEWSMPS
-
-[Document3]
 DocumentPath=11_Supervisión.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PISCYXPV
 
-[Document4]
+[Document3]
 DocumentPath=21_Controlador_USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TTVGQFIN
 
-[Document5]
+[Document4]
 DocumentPath=22_Hub.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,24 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZSGWZBMY
 
-[Document6]
-DocumentPath=23_Alimentación_Hub.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=9
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BRBLRQQI
-
-[Document7]
+[Document5]
 DocumentPath=30_ATMega32u4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RYBOJLOG
 
-[Document8]
+[Document6]
 DocumentPath=31_STM32.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TYTCHAXC
 
-[Document9]
+[Document7]
 DocumentPath=33_USB_VoCore.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KZXSXRQM
 
-[Document10]
+[Document8]
 DocumentPath=LEDs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JMBTTAZP
 
-[Document11]
+[Document9]
 DocumentPath=22_Hub.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document10]
 DocumentPath=Placa PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OMNRKXIY
 
-[Document13]
+[Document11]
 DocumentPath=30_ATMega32u4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document12]
 DocumentPath=33_USB_VoCore.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document13]
 DocumentPath=31_STM32.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document14]
 DocumentPath=Gestión_Alimentación.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OWWPBTZI
 
-[Document17]
+[Document15]
 DocumentPath=Controles.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BFZTBGNR
 
-[Document18]
+[Document16]
 DocumentPath=Controles.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document17]
 DocumentPath=21_Controlador_USB.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1

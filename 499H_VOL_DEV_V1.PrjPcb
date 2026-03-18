@@ -101,6 +101,23 @@ GenerateClassCluster=0
 DocumentUniqueId=TTVGQFIN
 
 [Document4]
+DocumentPath=50_Gestión_Alimentación.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=13
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OWWPBTZI
+
+[Document5]
 DocumentPath=21_HUB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZSGWZBMY
 
-[Document5]
+[Document6]
 DocumentPath=30_ATMega32u4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RYBOJLOG
 
-[Document6]
+[Document7]
 DocumentPath=31_STM32.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TYTCHAXC
 
-[Document7]
+[Document8]
 DocumentPath=33_USB_VoCore.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KZXSXRQM
 
-[Document8]
+[Document9]
 DocumentPath=41_LEDs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JMBTTAZP
 
-[Document9]
+[Document10]
 DocumentPath=21_HUB.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document11]
 DocumentPath=Placa PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OMNRKXIY
 
-[Document11]
+[Document12]
 DocumentPath=30_ATMega32u4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document13]
 DocumentPath=33_USB_VoCore.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document14]
 DocumentPath=31_STM32.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,23 +286,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document14]
-DocumentPath=50_Gestión_Alimentación.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=13
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OWWPBTZI
 
 [Document15]
 DocumentPath=40_Controles.SchDoc
@@ -1403,54 +1403,64 @@ PartTypes=0
 Net1=NetName=1V1_HUB|NetColor=clFuchsia
 Net2=NetName=3V3_CTLR|NetColor=$00FF0099
 Net3=NetName=3V3_HUB|NetColor=clBlue
-Net4=NetName=5V_ATMega|NetColor=clFuchsia
-Net5=NetName=5V_DBG|NetColor=clFuchsia
-Net6=NetName=5V_HUB_FB|NetColor=clRed
-Net7=NetName=5V_LRS|NetColor=$000099FF
-Net8=NetName=5V_LRS_PWR|NetColor=clRed
-Net9=NetName=5V_MSTR|NetColor=clFuchsia
-Net10=NetName=5V_STMHID|NetColor=clFuchsia
-Net11=NetName=5V_VoCore|NetColor=clFuchsia
-Net12=NetName=I2C.SCL|NetColor=$000099FF
-Net13=NetName=I2C.SDA|NetColor=$000099FF
-Net14=NetName=N00000|NetColor=clYellow
-Net15=NetName=SCL|NetColor=$000099FF
-Net16=NetName=SCL/BOOT0|NetColor=$000099FF
-Net17=NetName=SDA|NetColor=$000099FF
-Net18=NetName=USB DATA ATMega.N|NetColor=clLime
-Net19=NetName=USB DATA ATMega.P|NetColor=clLime
-Net20=NetName=USB DATA MSTR.N|NetColor=clLime
-Net21=NetName=USB DATA MSTR.P|NetColor=clLime
-Net22=NetName=USB DATA MSTR.USB_DN|NetColor=clAqua
-Net23=NetName=USB DATA MSTR.USB_DP|NetColor=clAqua
-Net24=NetName=USB DATA STMHID.N|NetColor=clLime
-Net25=NetName=USB DATA STMHID.P|NetColor=clLime
-Net26=NetName=USB DATA VoCore.N|NetColor=clLime
-Net27=NetName=USB DATA VoCore.P|NetColor=clLime
-Net28=NetName=USB DATA.N|NetColor=clLime
-Net29=NetName=USB DATA.P|NetColor=clLime
-Net30=NetName=USB_CTRL_SCL|NetColor=$000099FF
-Net31=NetName=USB_CTRL_SDA|NetColor=$000099FF
-Net32=NetName=USBD MSTR.USB_DN|NetColor=clYellow
-Net33=NetName=USBD MSTR.USB_DP|NetColor=clYellow
-Net34=NetName=USBD_ATMega_N|NetColor=clLime
-Net35=NetName=USBD_ATMega_P|NetColor=clLime
-Net36=NetName=USBD_HUB_N|NetColor=clLime
-Net37=NetName=USBD_HUB_P|NetColor=clLime
-Net38=NetName=USBD_MSTR_DBG_N|NetColor=clAqua
-Net39=NetName=USBD_MSTR_DBG_P|NetColor=clAqua
-Net40=NetName=USBD_MSTR_HUB_N|NetColor=clLime
-Net41=NetName=USBD_MSTR_HUB_P|NetColor=clLime
-Net42=NetName=USBD_MSTR_N|NetColor=clYellow
-Net43=NetName=USBD_MSTR_P|NetColor=clYellow
-Net44=NetName=USBD_STMHID_N|NetColor=clLime
-Net45=NetName=USBD_STMHID_P|NetColor=clLime
-Net46=NetName=USBD_VoCore_N|NetColor=clLime
-Net47=NetName=USBD_VoCore_P|NetColor=clLime
-Net48=NetName=V5_ATMega|NetColor=clFuchsia
-Net49=NetName=V5_HUB_FB|NetColor=clRed
-Net50=NetName=V5_MSTR|NetColor=clFuchsia
-Net51=NetName=V5_STMHID|NetColor=clFuchsia
+Net4=NetName=5V|NetColor=clAqua
+Net5=NetName=5V_ATMega|NetColor=clFuchsia
+Net6=NetName=5V_DBG|NetColor=clFuchsia
+Net7=NetName=5V_HUB_FB|NetColor=clRed
+Net8=NetName=5V_LRS|NetColor=$000099FF
+Net9=NetName=5V_LRS_PWR|NetColor=clRed
+Net10=NetName=5V_MAIN|NetColor=clBlue
+Net11=NetName=5V_MSTR|NetColor=clFuchsia
+Net12=NetName=5V_STMHID|NetColor=clFuchsia
+Net13=NetName=5V_VoCore|NetColor=clFuchsia
+Net14=NetName=DEBUG_D_N|NetColor=clLime
+Net15=NetName=DEBUG_D_P|NetColor=clLime
+Net16=NetName=HUB SCL|NetColor=$006BB2F6
+Net17=NetName=HUB SDA|NetColor=$006BB2F6
+Net18=NetName=I2C.SCL|NetColor=$000099FF
+Net19=NetName=I2C.SDA|NetColor=$000099FF
+Net20=NetName=N00000|NetColor=clYellow
+Net21=NetName=SCL|NetColor=$000099FF
+Net22=NetName=SCL/BOOT0|NetColor=$000099FF
+Net23=NetName=SDA|NetColor=$000099FF
+Net24=NetName=STM_D_N|NetColor=clLime
+Net25=NetName=STM_D_P|NetColor=clLime
+Net26=NetName=STMHUB_D_N|NetColor=clLime
+Net27=NetName=STMHUB_D_P|NetColor=clLime
+Net28=NetName=USB DATA ATMega.N|NetColor=clLime
+Net29=NetName=USB DATA ATMega.P|NetColor=clLime
+Net30=NetName=USB DATA MSTR.N|NetColor=clLime
+Net31=NetName=USB DATA MSTR.P|NetColor=clLime
+Net32=NetName=USB DATA MSTR.USB_DN|NetColor=clAqua
+Net33=NetName=USB DATA MSTR.USB_DP|NetColor=clAqua
+Net34=NetName=USB DATA STMHID.N|NetColor=clLime
+Net35=NetName=USB DATA STMHID.P|NetColor=clLime
+Net36=NetName=USB DATA VoCore.N|NetColor=clLime
+Net37=NetName=USB DATA VoCore.P|NetColor=clLime
+Net38=NetName=USB DATA.N|NetColor=clLime
+Net39=NetName=USB DATA.P|NetColor=clLime
+Net40=NetName=USB_CTRL_SCL|NetColor=$000099FF
+Net41=NetName=USB_CTRL_SDA|NetColor=$000099FF
+Net42=NetName=USBD MSTR.USB_DN|NetColor=clYellow
+Net43=NetName=USBD MSTR.USB_DP|NetColor=clYellow
+Net44=NetName=USBD_ATMega_N|NetColor=clLime
+Net45=NetName=USBD_ATMega_P|NetColor=clLime
+Net46=NetName=USBD_HUB_N|NetColor=clLime
+Net47=NetName=USBD_HUB_P|NetColor=clLime
+Net48=NetName=USBD_MSTR_DBG_N|NetColor=clAqua
+Net49=NetName=USBD_MSTR_DBG_P|NetColor=clAqua
+Net50=NetName=USBD_MSTR_HUB_N|NetColor=clLime
+Net51=NetName=USBD_MSTR_HUB_P|NetColor=clLime
+Net52=NetName=USBD_MSTR_N|NetColor=clYellow
+Net53=NetName=USBD_MSTR_P|NetColor=clYellow
+Net54=NetName=USBD_STMHID_N|NetColor=clLime
+Net55=NetName=USBD_STMHID_P|NetColor=clLime
+Net56=NetName=USBD_VoCore_N|NetColor=clLime
+Net57=NetName=USBD_VoCore_P|NetColor=clLime
+Net58=NetName=V5_ATMega|NetColor=clFuchsia
+Net59=NetName=V5_HUB_FB|NetColor=clRed
+Net60=NetName=V5_MSTR|NetColor=clFuchsia
+Net61=NetName=V5_STMHID|NetColor=clFuchsia
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
